@@ -421,7 +421,7 @@ def main():
     logger.info("🚀 Starting Uzbek STT Bot on Railway...")
     
     # Get token from environment
-    bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
+    bot_token = os.getenv('8116018261:AAFn6W-8uyWY_ibqjRBWFPQXmbt6DBcZNQs')
     if not bot_token:
         logger.error("❌ TELEGRAM_BOT_TOKEN not found in environment variables")
         sys.exit(1)
