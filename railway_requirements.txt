@@ -15,3 +15,6 @@ accelerate>=0.20.0,<1.0.0
 
 # System utilities
 psutil>=5.9.0,<6.0.0
+--index-url https://download.pytorch.org/whl/cpu
+torch==2.1.0+cpu
+torchaudio==2.1.0+cpu
