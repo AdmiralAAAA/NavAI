@@ -1,0 +1,1 @@
+web: python uzbek_stt_bot.py
