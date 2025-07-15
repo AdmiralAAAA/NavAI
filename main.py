@@ -318,7 +318,7 @@ async def main():
     logger.info("🚀 Starting Basic Uzbek STT Bot...")
     
     # Get bot token
-    bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
+    bot_token = os.getenv('8116018261:AAFn6W-8uyWY_ibqjRBWFPQXmbt6DBcZNQs')
     if not bot_token:
         logger.error("❌ TELEGRAM_BOT_TOKEN not set!")
         sys.exit(1)
